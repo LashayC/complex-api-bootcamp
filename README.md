@@ -1,22 +1,12 @@
-# 📊 Project: Complex API 
+# Top Song Lyrics Finder
+Enter an artists name and get their top song and lyrics.
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+**Link to project:** https://complex-api-songs.netlify.app/
 
-### How to submit your code for review:
+![image](https://user-images.githubusercontent.com/102004376/168598729-32bb4dc0-f3f0-472d-9827-3208790e5b3c.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript
+This was built using an API that returns the top 5 hits for an artist. In this site I just used the lyrics and song title of the number #1 song. 
+
