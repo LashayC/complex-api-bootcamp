@@ -7,5 +7,6 @@ Enter an artists name and get their top song and lyrics.
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
+
 This was built using an API that returns the top 5 hits for an artist. In this site I just used the lyrics and song title of the number #1 song. 
 
